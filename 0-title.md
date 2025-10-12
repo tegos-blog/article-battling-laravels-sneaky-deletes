@@ -1,0 +1,1 @@
+# Battling Laravel's Sneaky DELETEs: How I Got ORDER BY and LIMIT to Play Nice with Joins
